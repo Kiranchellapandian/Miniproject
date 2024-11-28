@@ -21,15 +21,16 @@ This project aims to design and implement an advanced geospatial positioning and
 - **Database:** MongoDB or PostgreSQL for efficient storage and retrieval of location and user data.
 
 ## System Architecture
-![System Architecture](https://github.com/<<yourusername>>/Advanced-Geospatial-System/assets/example.png)
+![bu tracking](https://github.com/user-attachments/assets/06b105e3-4a6d-4ebd-9bdb-b986f8953974)
 
 ## Output
 
 ### Output 1 - Real-Time Tracking Display
-![Real-Time Tracking](https://github.com/<<yourusername>>/Advanced-Geospatial-System/assets/output1.png)
+![Screenshot 2024-11-28 234723](https://github.com/user-attachments/assets/8eb2ccf6-d818-4f7a-8de6-b349de38a031)
+
 
 ### Output 2 - Geofence Alert
-![Geofence Alert](https://github.com/<<yourusername>>/Advanced-Geospatial-System/assets/output2.png)
+![Screenshot 2024-11-28 234742](https://github.com/user-attachments/assets/4e02e8a8-f703-4265-8217-b970a9538d32)
 
 ## Results and Impact
 The system improves the efficiency of public transportation by providing accurate bus tracking and geofencing, ensuring better route management and user satisfaction. It reduces wait times, optimizes fuel usage, and increases user confidence in public transit systems.
