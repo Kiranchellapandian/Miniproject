@@ -1,0 +1,11 @@
+timestamp,bus_id,student_id,distance_km,hour,day_of_week,traffic_condition,bus_speed_kmh,eta_minutes
+2024-01-01 08:00:00,bus1,student1,5.2,8,1,light,40,15
+2024-01-01 08:05:00,bus1,student2,3.8,8,1,medium,35,12
+2024-01-01 08:10:00,bus1,student3,7.5,8,1,heavy,25,25
+2024-01-02 17:30:00,bus1,student1,4.0,17,2,heavy,20,20
+2024-01-02 17:35:00,bus1,student2,6.3,17,2,medium,30,18
+2024-01-03 09:15:00,bus1,student4,2.5,9,3,light,45,10
+2024-01-03 09:20:00,bus1,student5,8.1,9,3,heavy,22,30
+2024-01-04 14:45:00,bus1,student3,5.5,14,4,medium,33,16
+2024-01-04 14:50:00,bus1,student6,9.0,14,4,heavy,18,35
+2024-01-05 07:25:00,bus1,student1,3.0,7,5,light,50,8
